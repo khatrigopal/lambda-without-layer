@@ -1,5 +1,5 @@
 module "lambda_functions" {
-  source = "./modules/lambda_functions"
+  source = "./modules/lambda-functions"
 
   function_configurations = [
     {
